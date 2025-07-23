@@ -4,3 +4,15 @@ body {
   color: black;
   background-color: whitesmoke;
 }
+
+header {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  background-color: crimson;
+}
+
+.header-title {
+  padding-left: 1.2rem;
+}
