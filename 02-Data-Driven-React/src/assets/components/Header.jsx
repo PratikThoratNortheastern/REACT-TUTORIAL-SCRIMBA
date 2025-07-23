@@ -1,8 +1,8 @@
 export default function () {
   return (
     <header>
-      <h1>Hello Travel Journal</h1>
-      <p>Fuck this. Airbnb is expensive</p>
+      <img src="./src/assets/images/Globe.svg" alt="Globe SVG" />
+      <h1 class="header-title">My Travel Journal</h1>
     </header>
   );
 }
